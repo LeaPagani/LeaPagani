@@ -8,8 +8,8 @@
 
 
 <!-- About Me Section -->
-## ⛄ About Me
-- 🌐 Lorem ipsum
+## 👨🏻‍💻 About Me
+- 🌐 Open for collaborations! Let's build cool projects together!
 - 🎹 Lorem ipsum
 - ☀️ Lorem ipsum
 - 📚 Lorem ipsum
