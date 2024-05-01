@@ -33,9 +33,9 @@ https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logo
 
 <!-- Office Sections -->
 ## 👨‍💻 Office Skills
-https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
-https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 <!-- Databases Sections -->
 ## :bar_chart: Databases
@@ -45,7 +45,7 @@ https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&log
 ## :pencil: IDEs, Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+![Sublime text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![README](https://img.shields.io/badge/ReadMe-018EF5.svg?style=for-the-badge&logo=ReadMe&logoColor=white)
 
 <!-- Operating Systems Section -->
