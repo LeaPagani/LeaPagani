@@ -10,10 +10,9 @@
 <!-- About Me Section -->
 ## 👨🏻‍💻 About Me
 - 🌐 Open for collaborations! Let's build cool projects together!
-- 🎹 Lorem ipsum
-- ☀️ Lorem ipsum
-- 📚 Lorem ipsum
-- ✈️ Lorem ipsum
+- 🌱 Currently learning JavaScript at Holberton Coding School
+- ☀️ In my free time im a Chess player who enjoys analyzing games, studying tactics and strategies
+- 📚 Apart from coding my other passion is football whether it's watching matches or playing with friends
 
 <!-- Languages Section -->
 ## :book: Languages
