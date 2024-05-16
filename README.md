@@ -12,7 +12,7 @@
 - 🌐 Open for collaborations! Let's build cool projects together!
 - 🌱 Currently learning JavaScript at Holberton Coding School
 - ☀️ In my free time, I'm a chess player who enjoys playing blitz, analyzing games and studying strategies
-- ⚽ Beyond coding, I'm deeply passionate about football, whether it's watching LaLiga or playing with friends
+- ⚽️ Beyond coding, I'm deeply passionate about football, whether it's watching LaLiga or playing with friends
 
 <!-- Languages Section -->
 ## :book: Languages
