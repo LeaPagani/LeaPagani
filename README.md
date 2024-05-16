@@ -11,8 +11,8 @@
 ## 👨🏻‍💻 About Me
 - 🌐 Open for collaborations! Let's build cool projects together!
 - 🌱 Currently learning JavaScript at Holberton Coding School
-- ☀️ In my free time im a Chess player who enjoys analyzing games, studying tactics and strategies
-- 📚 Apart from coding my other passion is football whether it's watching matches or playing with friends
+- ☀️ In my free time, I'm a chess player who enjoys playing blitz, analyzing games and studying strategies
+- ⚽ Beyond coding, I'm deeply passionate about football, whether it's watching LaLiga or playing with friends
 
 <!-- Languages Section -->
 ## :book: Languages
