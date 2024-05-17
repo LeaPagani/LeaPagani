@@ -12,7 +12,7 @@
 - 🌐 Open for collaborations! Let's build cool projects together!
 - 🌱 Currently learning JavaScript at Holberton Coding School
 - ☀️ In my free time, I'm a chess player who enjoys playing blitz, analyzing games and studying strategies
-- ⚽️ Beyond coding, I'm deeply passionate about football, whether it's watching LaLiga or playing with friends
+- ⚽️ Beyond coding, I'm deeply passionate about soccer, whether it's watching LaLiga or playing with friends
 
 <!-- Languages Section -->
 ## :book: Languages
@@ -29,16 +29,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Chat GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+<!-- Databases Sections -->
+## :bar_chart: Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <!-- Office Sections -->
 ## 👨‍💻 Office Skills
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-<!-- Databases Sections -->
-## :bar_chart: Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- IDEs Editors Sections -->
 ## :pencil: IDEs, Editors
