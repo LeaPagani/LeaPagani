@@ -11,6 +11,7 @@
 ## 👨🏻‍💻 About Me
 - 🌐 Open for collaborations! Let's build cool projects together!
 - 🌱 Currently learning JavaScript at Holberton Coding School
+- 🏗️ Building a Local Tourism Advisor Website
 - ☀️ In my free time, I'm a chess player who enjoys playing blitz, analyzing games and studying strategies
 - ⚽️ Beyond coding, I'm deeply passionate about soccer, whether it's watching LaLiga or playing with friends
 - 💬 Feel free to contact me @leandropaganinieves@gmail.com
